@@ -3,7 +3,7 @@
   "displayName": "FreeMarker React",
   "description": "Syntax highlight for FreeMarker with React",
   "version": "0.0.1",
-  "publisher": "dcortes92",
+  "publisher": "sadfghjkljhgfdews",
   "repository": {
     "type": "git",
     "url": "https://github.com/dcortes92/vs-freemarker.git"
@@ -58,10 +58,13 @@
     "url": "https://github.com/dcortes92/vs-freemarker/issues"
   },
   "homepage": "https://github.com/dcortes92/vs-freemarker#readme",
-  "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "semantic-release": "^17.3.0",
+    "semantic-release-vsce": "^3.0.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npx semantic-release"
   },
   "keywords": [
     "visual",
@@ -71,7 +74,6 @@
     "freemarker",
     "ftl"
   ],
-  "author": "Daniel Cortes <dcortes1892@gmail.com> (http://dcortes92.github.io/)",
   "license": "MIT",
   "icon": "images/logo.svg"
 }

@@ -1,0 +1,18 @@
+language: node_js
+
+node_js: lts/*
+
+if: tag IS blank
+
+install:
+  - npm i
+
+stages:
+  - name: release
+    if: branch = master AND type = push AND fork = false
+
+jobs:
+  include:
+    - stage: release
+      script:
+        - npm run publish
