@@ -3163,7 +3163,7 @@
 													<array>
 														<dict>
 															<key>include</key>
-															<string>text.cchtml.basic</string>
+															<string>text.html.ftl</string>
 														</dict>
 													</array>
 												</dict>
