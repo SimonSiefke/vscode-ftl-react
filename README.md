@@ -6,7 +6,7 @@ This extension is based on the vs-freemarker extension https://github.com/dcorte
 
 ## Usage
 
-[Install](https://marketplace.visualstudio.com/items?itemName=dcortes92.FreeMarker) the extension and open any `.ftl` file.
+[Install](https://marketplace.visualstudio.com/items?itemName=sadfghjkljhgfdews.freemarker-react) the extension and open any `.ftl` file.
 
 ![FreeMarker Syntax Highlight](/images/vscode-freemarker-syntax.png 'FreeMarker Syntax Hightlight')
 
