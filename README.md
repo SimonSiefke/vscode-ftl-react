@@ -2,8 +2,6 @@
 
 FreeMarker language colorization extension for Visual Studio Code. You can read more about FreeMarker [here](http://freemarker.incubator.apache.org/).
 
-This extension is based on the vs-freemarker extension https://github.com/dcortes92/vs-freemarker
-
 ## Usage
 
 [Install](https://marketplace.visualstudio.com/items?itemName=sadfghjkljhgfdews.freemarker-react) the extension and open any `.ftl` file.
@@ -67,3 +65,7 @@ Type **#** followed by the first letters of a FreeMarker tag name and the editor
 ## Contributing
 
 Contributions are welcome. Fork the repo and create a pull request with your changes.
+
+## Credits
+
+This extension is based on the [vs-freemarker](https://github.com/dcortes92/vs-freemarker) extension by [dcortes92](https://github.com/dcortes92).
