@@ -2,7 +2,7 @@
   "name": "freemarker-react",
   "displayName": "FreeMarker React",
   "description": "Syntax highlight for FreeMarker with React",
-  "version": "0.0.1",
+  "version": "0.0.0-dev",
   "publisher": "sadfghjkljhgfdews",
   "repository": {
     "type": "git",
