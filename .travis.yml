@@ -5,7 +5,7 @@ node_js: lts/*
 if: tag IS blank
 
 install:
-  - npm i
+  - npm ci
 
 stages:
   - name: release
