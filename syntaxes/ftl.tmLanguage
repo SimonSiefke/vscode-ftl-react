@@ -136,7 +136,7 @@
 		</dict>
 		<dict>
 			<key>include</key>
-			<string>text.html.basic</string>
+			<string>text.cchtml.basic</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
