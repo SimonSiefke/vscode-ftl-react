@@ -6,7 +6,7 @@
   "publisher": "sadfghjkljhgfdews",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dcortes92/vs-freemarker.git"
+    "url": "https://github.com/SimonSiefke/vscode-ftl-react.git"
   },
   "engines": {
     "vscode": "^0.10.1"
