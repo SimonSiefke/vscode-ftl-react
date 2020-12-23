@@ -74,6 +74,5 @@
     "freemarker",
     "ftl"
   ],
-  "license": "MIT",
-  "icon": "images/logo.svg"
+  "license": "MIT"
 }
